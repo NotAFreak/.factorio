@@ -1,0 +1,801 @@
+
+{
+  "available-campaign-levels": 
+  {
+    "tight-spot": 
+    {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": 
+    {
+      "level-01": "hard"
+    },
+    "tutorial": 
+    {
+      "level-01": "hard"
+    }
+  },
+  "tips": 
+  {
+    "show-info": 
+    {
+      "status": "completed"
+    },
+    "e-confirm": 
+    {
+      "status": "locked"
+    },
+    "clear-cursor": 
+    {
+      "status": "completed"
+    },
+    "pipette": 
+    {
+      "status": "completed"
+    },
+    "stack-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "entity-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "z-dropping": 
+    {
+      "status": "suggested",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {
+            "count": 1
+          },
+          
+          {}
+        ]
+      }
+    },
+    "shoot-targeting": 
+    {
+      "status": "suggested",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {
+            "triggered": true
+          },
+          
+          {}
+        ]
+      }
+    },
+    "bulk-crafting": 
+    {
+      "status": "completed"
+    },
+    "rotating-assemblers": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ],
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "entity-flip": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "count": 1
+      }
+    },
+    "circuit-network": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "elapsed": 0
+        },
+        
+        {}
+      ],
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "spidertron-control": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "elapsed": 0
+        },
+        
+        {}
+      ],
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "belt-lanes": 
+    {
+      "status": "completed"
+    },
+    "splitters": 
+    {
+      "status": "suggested"
+    },
+    "inserters": 
+    {
+      "status": "completed"
+    },
+    "burner-inserter-refueling": 
+    {
+      "status": "completed"
+    },
+    "long-handed-inserters": 
+    {
+      "status": "suggested"
+    },
+    "move-between-labs": 
+    {
+      "status": "suggested",
+      "skip_status": 
+      {
+        "count": 11
+      }
+    },
+    "insertion-limits": 
+    {
+      "status": "suggested",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {
+            "triggered": true
+          },
+          
+          {
+            "elapsed": 554965
+          }
+        ]
+      }
+    },
+    "limit-chests": 
+    {
+      "status": "suggested"
+    },
+    "electric-network": 
+    {
+      "status": "completed"
+    },
+    "steam-power": 
+    {
+      "status": "completed"
+    },
+    "electric-pole-connections": 
+    {
+      "status": "suggested"
+    },
+    "low-power": 
+    {
+      "status": "completed"
+    },
+    "connect-switch": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "copy-entity-settings": 
+    {
+      "status": "suggested"
+    },
+    "copy-paste-trains": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {},
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "copy-paste-filters": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {},
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "copy-paste-requester-chest": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "copy-paste-spidertron": 
+    {
+      "status": "locked"
+    },
+    "drag-building": 
+    {
+      "status": "completed"
+    },
+    "drag-building-poles": 
+    {
+      "status": "completed"
+    },
+    "pole-dragging-coverage": 
+    {
+      "status": "completed"
+    },
+    "drag-building-underground-belts": 
+    {
+      "status": "completed"
+    },
+    "fast-belt-bending": 
+    {
+      "status": "suggested",
+      "skip_status": 
+      {
+        "count": 2
+      }
+    },
+    "fast-obstacle-traversing": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {
+          "triggered": true
+        },
+        
+        {
+          "count": 4
+        }
+      ],
+      "skip_status": 
+      {
+        "count": 2
+      }
+    },
+    "trains": 
+    {
+      "status": "locked"
+    },
+    "rail-building": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "train-stops": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {}
+          ]
+        }
+      ]
+    },
+    "rail-signals-basic": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {}
+          ]
+        }
+      ]
+    },
+    "rail-signals-advanced": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "gate-over-rail": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "triggered": true
+        },
+        
+        {}
+      ]
+    },
+    "pump-connection": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {}
+          ]
+        }
+      ]
+    },
+    "train-stop-same-name": 
+    {
+      "status": "locked"
+    },
+    "logistic-network": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ],
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {
+            "conditions": 
+            [
+              
+              {},
+              
+              {},
+              
+              {}
+            ]
+          }
+        ]
+      }
+    },
+    "personal-logistics": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {},
+          
+          {
+            "conditions": 
+            [
+              
+              {},
+              
+              {}
+            ]
+          }
+        ]
+      }
+    },
+    "construction-robots": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "passive-provider-chest": 
+    {
+      "status": "dependencies-not-met"
+    },
+    "storage-chest": 
+    {
+      "status": "dependencies-not-met"
+    },
+    "requester-chest": 
+    {
+      "status": "locked"
+    },
+    "active-provider-chest": 
+    {
+      "status": "locked"
+    },
+    "buffer-chest": 
+    {
+      "status": "locked"
+    },
+    "ghost-building": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "ghost-rail-planner": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {},
+            
+            {}
+          ]
+        },
+        
+        {}
+      ]
+    },
+    "copy-paste": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "elapsed": 0
+        },
+        
+        {}
+      ],
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "fast-replace": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-direction": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-splitter": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-underground": 
+    {
+      "status": "suggested",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {
+            "count": 2
+          }
+        ]
+      }
+    }
+  },
+  "last-played": 
+  {
+    "type": "single-player",
+    "save-name": "fuck"
+  },
+  "service-username": "NotAFreak",
+  "service-token": "",
+  "shortcut-bar": 
+  [
+    
+    {
+      "name": "toggle-alt-mode",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod-shortcut",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "undo",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "redo",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "copy",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "cut",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "paste",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "import-string",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-blueprint",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-blueprint-book",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-deconstruction-planner",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-upgrade-planner",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "toggle-personal-roboport",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "toggle-equipment-movement-bonus",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "rcalc-get-selection-tool",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-copper-wire",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-green-wire",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-red-wire",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-artillery-targeting-remote",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-discharge-defense-remote",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-missile-targeting-remote",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-spidertron-remote",
+      "docked": false,
+      "enabled": false
+    }
+  ],
+  "editor-lua-snippets": 
+  [
+    
+    {
+      "name": "Example (Turn trees into biters)",
+      "code": "local surface = game.player.surface\nlocal entities = surface.find_entities_filtered{area = area, type = 'tree'}\nfor k, tree in pairs(entities) do\n  local position = tree.position\n  tree.destroy()\n  surface.create_entity{name = 'small-biter', position = position}\nend"
+    }
+  ],
+  "last-played-version": 
+  {
+    "game_version": "2.0.73",
+    "build_version": 84377,
+    "build_mode": "steam",
+    "platform": "linux64"
+  },
+  "blueprint-view": "list",
+  "saves-sorting-mode": "time",
+  "hide-advert": "true",
+  "main-menu-simulations-played": 
+  [
+    "nauvis_oil_refinery",
+    "nauvis_logistic_robots",
+    "nauvis_forest_fire",
+    "nauvis_spider_ponds",
+    "nauvis_lab",
+    "nauvis_train_station",
+    "nauvis_big_defense",
+    "nauvis_train_junction",
+    "nauvis_biter_base_steamrolled",
+    "nauvis_biter_base_laser_defense",
+    "nauvis_chase_player",
+    "nauvis_burner_city",
+    "nauvis_biter_base_spidertron",
+    "nauvis_artillery",
+    "nauvis_solar_power_construction",
+    "nauvis_mining_defense",
+    "nauvis_biter_base_artillery",
+    "nauvis_biter_base_player_attack"
+  ],
+  "ticks-since-last-tip-shown": 210168
+}

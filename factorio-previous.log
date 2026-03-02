@@ -1,0 +1,68 @@
+   0.000 2026-03-02 16:27:43; Factorio 2.0.73 (build 84377, linux64, steam)
+   0.000 Operating system: Linux
+   0.000 Initializing Steam API.
+   0.000 Program arguments: "/home/notafreak/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
+   0.000 Config path: /home/notafreak/.factorio/config/config.ini
+   0.000 Read data path: /home/notafreak/.local/share/Steam/steamapps/common/Factorio/data
+   0.000 Write data path: /home/notafreak/.factorio [121633/239278MB]
+   0.000 Binaries path: /home/notafreak/.local/share/Steam/steamapps/common/Factorio/bin
+   0.006 System info: [CPU: AMD Ryzen 5 5500, 12 cores, RAM: 31959 MB]
+   0.006 Environment: DISPLAY=:1 WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu XDG_CURRENT_DESKTOP=ubuntu:GNOME SDL_VIDEODRIVER=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.019 Error ModManager.cpp:1767: Failed to load mod "RateCalculator": 
+• RateCalculator
+    • Missing required dependency flib >= 0.15.0
+• reverse-factory
+    • Missing required dependency kry_stdlib >= 2.1.0
+   0.019 Display options: [FullScreen: true] [VSync: true] [UIScale: manual-display-points (100.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
+   0.136 Video driver: x11
+   0.136 Available displays: 2
+   0.136  [0]: DELL 2208WFP 22" - {[0,0], 1680x1050, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.136  [1]: HP LA2206 22" - {[1680,0], 1920x1080, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.415 Initialised OpenGL:[0] NVIDIA GeForce GTX 970/PCIe/SSE2; driver: 3.3.0 NVIDIA 580.126.09
+   0.415   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes, ARB_pipeline_statistics_query:yes, ARB_gl_spirv:yes, ARB_ES2_compatibility:yes
+   0.415   [Version] 3.3
+   0.457 Graphics settings preset: very-high
+   0.457   Dedicated video memory size 4342 MB (detected from NVIDIA GeForce GTX 970; VendorID: 0x10de; DeviceID: 0x13c2)
+   0.498 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
+   0.498                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWTl] [B:0,C:0,S:100]
+   0.515 [Audio] Driver:pulseaudio, Device:Default device, Depth:16, Frequency:44100, Channels:2, Interpolation:linear
+   0.573 Joystick device connected: instance: 0, Xbox One S Controller
+   0.573 Game controller connected: instance: 0, Xbox One S Controller, Xbox One S Controller
+   0.611 Info ModManager.cpp:449: FeatureFlag expansion-shaders = false
+   0.611 Info ModManager.cpp:449: FeatureFlag freezing = false
+   0.611 Info ModManager.cpp:449: FeatureFlag quality = false
+   0.611 Info ModManager.cpp:449: FeatureFlag rail-bridges = false
+   0.611 Info ModManager.cpp:449: FeatureFlag segmented-units = false
+   0.611 Info ModManager.cpp:449: FeatureFlag space-travel = false
+   0.611 Info ModManager.cpp:449: FeatureFlag spoiling = false
+   0.623 Loading mod core 0.0.0 (data.lua)
+   0.646 Checksum for core: 3316885848
+   0.674 Error ModManager.cpp:1767: Error in assignID: recipe-category with name 'recycling' does not exist.
+
+Source: default (utility-constants).
+   0.677 Loading sounds...
+   0.686 Info PlayerData.cpp:66: Local player-data.json unavailable
+   0.686 Info PlayerData.cpp:69: Cloud player-data.json available, timestamp 1772432299
+   0.687 Post-data load graphics options: [Light occlusion: no]
+   0.728 Initial atlas bitmap size is 16384
+   0.728 Created an atlas bitmap (size 4096x496) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   0.728 Loading 3D bitmaps.
+   0.735 Texture processor created (4096). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   0.737 Parallel sprite loader initialized (threads: 11, bitmaps: 146)
+   0.766 Sprites loaded
+   0.772 Generated mipmaps (5) for atlas [0] of size 4096x496   
+   0.772 Custom mipmaps uploaded (117)
+   0.777 Video memory usage: 10.32 MB (Atlases: 10.32 MB, Textures: 0.00 MB)
+   0.801 Factorio initialised
+   0.804 Failed to load mods: 
+• RateCalculator
+    • Missing required dependency flib >= 0.15.0
+• reverse-factory
+    • Missing required dependency kry_stdlib >= 2.1.0
+
+Mods to be disabled:
+• RateCalculator (3.3.8)
+• reverse-factory (9.0.47)
+  82.458 Quitting: user-quit.
+  82.580 Steam API shutdown.
+  82.582 Goodbye

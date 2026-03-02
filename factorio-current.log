@@ -1,0 +1,861 @@
+   0.000 2026-03-02 16:29:11; Factorio 2.0.73 (build 84377, linux64, steam)
+   0.000 Operating system: Linux
+   0.000 Initializing Steam API.
+   0.000 Program arguments: "/home/notafreak/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
+   0.000 Config path: /home/notafreak/.factorio/config/config.ini
+   0.000 Read data path: /home/notafreak/.local/share/Steam/steamapps/common/Factorio/data
+   0.000 Write data path: /home/notafreak/.factorio [121630/239278MB]
+   0.000 Binaries path: /home/notafreak/.local/share/Steam/steamapps/common/Factorio/bin
+   0.007 System info: [CPU: AMD Ryzen 5 5500, 12 cores, RAM: 31959 MB]
+   0.007 Environment: DISPLAY=:1 WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu XDG_CURRENT_DESKTOP=ubuntu:GNOME SDL_VIDEODRIVER=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.019 Display options: [FullScreen: true] [VSync: true] [UIScale: manual-display-points (100.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
+   0.136 Video driver: x11
+   0.136 Available displays: 2
+   0.136  [0]: DELL 2208WFP 22" - {[0,0], 1680x1050, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.136  [1]: HP LA2206 22" - {[1680,0], 1920x1080, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.393 Initialised OpenGL:[0] NVIDIA GeForce GTX 970/PCIe/SSE2; driver: 3.3.0 NVIDIA 580.126.09
+   0.393   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes, ARB_pipeline_statistics_query:yes, ARB_gl_spirv:yes, ARB_ES2_compatibility:yes
+   0.393   [Version] 3.3
+   0.425 Graphics settings preset: very-high
+   0.425   Dedicated video memory size 4342 MB (detected from NVIDIA GeForce GTX 970; VendorID: 0x10de; DeviceID: 0x13c2)
+   0.505 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
+   0.505                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWTl] [B:0,C:0,S:100]
+   0.522 [Audio] Driver:pulseaudio, Device:Default device, Depth:16, Frequency:44100, Channels:2, Interpolation:linear
+   0.576 Joystick device connected: instance: 0, Xbox One S Controller
+   0.576 Game controller connected: instance: 0, Xbox One S Controller, Xbox One S Controller
+   0.620 Info ModManager.cpp:449: FeatureFlag expansion-shaders = false
+   0.620 Info ModManager.cpp:449: FeatureFlag freezing = false
+   0.620 Info ModManager.cpp:449: FeatureFlag quality = false
+   0.621 Info ModManager.cpp:449: FeatureFlag rail-bridges = false
+   0.621 Info ModManager.cpp:449: FeatureFlag segmented-units = false
+   0.621 Info ModManager.cpp:449: FeatureFlag space-travel = false
+   0.621 Info ModManager.cpp:449: FeatureFlag spoiling = false
+   0.630 Loading mod settings ballistic_missile 0.1.22 (settings.lua)
+   0.631 Loading mod settings bigger-artillery 0.7.4 (settings.lua)
+   0.631 Loading mod settings boblibrary 2.0.3 (settings.lua)
+   0.632 Loading mod settings DiscoScience 2.0.1 (settings.lua)
+   0.632 Loading mod settings equipment-gantry 0.2.4 (settings.lua)
+   0.633 Loading mod settings even-distribution 2.0.2 (settings.lua)
+   0.633 Loading mod settings Gun_Turret_Alerts 2.0.11 (settings.lua)
+   0.633 Loading mod settings HelicopterRevival 0.5.4 (settings.lua)
+   0.634 Loading mod settings helmod 2.2.12 (settings.lua)
+   0.637 Loading mod settings Hovercrafts 2.0.4 (settings.lua)
+   0.637 Loading mod settings jetpack 0.4.15 (settings.lua)
+   0.638 Loading mod settings lex-aircraft 1.3.0 (settings.lua)
+   0.638 Loading mod settings Power Armor MK3 2.1.7 (settings.lua)
+   0.639 Loading mod settings RampantFixed 2.2.4 (settings.lua)
+   0.639 Loading mod settings Repair_Turret 2.0.4 (settings.lua)
+   0.640 Loading mod settings TimeTools 3.0.8 (settings.lua)
+   0.641 Loading mod settings vtk-deep-core-mining 3.2.8 (settings.lua)
+   0.642 Loading mod settings Waterfill_v17 2.0.5 (settings.lua)
+   0.642 Loading mod settings bobassembly 2.0.5 (settings.lua)
+   0.643 Loading mod settings bobenemies 2.0.4 (settings.lua)
+   0.643 Loading mod settings boblogistics 2.0.6 (settings.lua)
+   0.644 Loading mod settings bobmining 2.0.4 (settings.lua)
+   0.645 Loading mod settings bobpower 2.0.4 (settings.lua)
+   0.645 Loading mod settings RateCalculator 3.3.8 (settings.lua)
+   0.646 Loading mod settings bobwarfare 2.0.5 (settings.lua)
+   0.647 Loading mod settings reverse-factory 9.0.47 (settings.lua)
+   0.648 Loading mod settings bobenemies 2.0.4 (settings-updates.lua)
+   0.648 Loading mod settings boblogistics 2.0.6 (settings-updates.lua)
+   0.652 Loading mod core 0.0.0 (data.lua)
+   0.664 Loading mod base 2.0.73 (data.lua)
+   0.776 Loading mod air-filtering 0.9.6 (data.lua)
+   0.783 Loading mod ballistic_missile 0.1.22 (data.lua)
+   0.790 Loading mod bigger-artillery 0.7.4 (data.lua)
+   0.798 Loading mod boblibrary 2.0.3 (data.lua)
+   0.807 Loading mod bullet-trails 0.7.1 (data.lua)
+   0.815 Loading mod DiscoScience 2.0.1 (data.lua)
+   0.822 Loading mod equipment-gantry 0.2.4 (data.lua)
+   0.823 Script @__equipment-gantry__/data.lua:1: Log mods once: {
+  DiscoScience = "2.0.1",
+  Gun_Turret_Alerts = "2.0.11",
+  HelicopterRevival = "0.5.4",
+  Hovercrafts = "2.0.4",
+  OmegaDrill = "0.3.8",
+  ["Power Armor MK3"] = "2.1.7",
+  RampantFixed = "2.2.4",
+  RateCalculator = "3.3.8",
+  Repair_Turret = "2.0.4",
+  TimeTools = "3.0.8",
+  Waterfill_v17 = "2.0.5",
+  ["air-filtering"] = "0.9.6",
+  ballistic_missile = "0.1.22",
+  base = "2.0.73",
+  ["bigger-artillery"] = "0.7.4",
+  bobassembly = "2.0.5",
+  bobenemies = "2.0.4",
+  boblibrary = "2.0.3",
+  boblogistics = "2.0.6",
+  bobmining = "2.0.4",
+  bobpower = "2.0.4",
+  bobwarfare = "2.0.5",
+  ["bullet-trails"] = "0.7.1",
+  ["equipment-gantry"] = "0.2.4",
+  ["even-distribution"] = "2.0.2",
+  flib = "0.16.5",
+  helmod = "2.2.12",
+  jetpack = "0.4.15",
+  kry_stdlib = "2.1.0",
+  ["lex-aircraft"] = "1.3.0",
+  ["reverse-factory"] = "9.0.47",
+  ["sonaxaton-infinite-resources"] = "0.4.9",
+  ["vtk-deep-core-mining"] = "3.2.8"
+}
+   0.830 Loading mod even-distribution 2.0.2 (data.lua)
+   0.836 Loading mod flib 0.16.5 (data.lua)
+   0.844 Loading mod Gun_Turret_Alerts 2.0.11 (data.lua)
+   0.852 Loading mod HelicopterRevival 0.5.4 (data.lua)
+   0.861 Loading mod helmod 2.2.12 (data.lua)
+   0.915 Loading mod Hovercrafts 2.0.4 (data.lua)
+   0.916 Script @__Hovercrafts__/prototypes/equipment.lua:6: grid-hovercraft = 4x6 4, 6
+   0.916 Script @__Hovercrafts__/prototypes/equipment.lua:30: grid-missile-hovercraft = 6x6 6, 6
+   0.936 Loading mod jetpack 0.4.15 (data.lua)
+   0.952 Loading mod lex-aircraft 1.3.0 (data.lua)
+   0.968 Loading mod OmegaDrill 0.3.8 (data.lua)
+   0.986 Loading mod Power Armor MK3 2.1.7 (data.lua)
+   1.004 Loading mod RampantFixed 2.2.4 (data.lua)
+   1.277 Loading mod Repair_Turret 2.0.4 (data.lua)
+   1.301 Loading mod TimeTools 3.0.8 (data.lua)
+   1.327 Loading mod vtk-deep-core-mining 3.2.8 (data.lua)
+   1.353 Loading mod Waterfill_v17 2.0.5 (data.lua)
+   1.375 Loading mod bobassembly 2.0.5 (data.lua)
+   1.403 Loading mod bobenemies 2.0.4 (data.lua)
+   1.524 Loading mod boblogistics 2.0.6 (data.lua)
+   1.572 Loading mod bobmining 2.0.4 (data.lua)
+   1.616 Loading mod bobpower 2.0.4 (data.lua)
+   1.661 Loading mod RateCalculator 3.3.8 (data.lua)
+   1.693 Loading mod bobwarfare 2.0.5 (data.lua)
+   1.751 Loading mod reverse-factory 9.0.47 (data.lua)
+   1.790 Loading mod base 2.0.73 (data-updates.lua)
+   1.821 Loading mod ballistic_missile 0.1.22 (data-updates.lua)
+   1.851 Loading mod bigger-artillery 0.7.4 (data-updates.lua)
+   1.881 Loading mod bullet-trails 0.7.1 (data-updates.lua)
+   1.912 Loading mod Hovercrafts 2.0.4 (data-updates.lua)
+   1.942 Loading mod lex-aircraft 1.3.0 (data-updates.lua)
+   1.973 Loading mod Power Armor MK3 2.1.7 (data-updates.lua)
+   2.010 Loading mod RampantFixed 2.2.4 (data-updates.lua)
+   2.046 Loading mod vtk-deep-core-mining 3.2.8 (data-updates.lua)
+   2.076 Loading mod bobassembly 2.0.5 (data-updates.lua)
+   2.105 Loading mod bobenemies 2.0.4 (data-updates.lua)
+   2.134 Loading mod boblogistics 2.0.6 (data-updates.lua)
+   2.165 Loading mod bobmining 2.0.4 (data-updates.lua)
+   2.194 Loading mod bobpower 2.0.4 (data-updates.lua)
+   2.224 Loading mod bobwarfare 2.0.5 (data-updates.lua)
+   2.226 Script @__boblibrary__/technology-functions.lua:328: stack traceback:
+	__boblibrary__/technology-functions.lua:328: in function 'add_prerequisite'
+	__bobwarfare__/prototypes/recipe/recipe-updates.lua:464: in main chunk
+	[C]: in function 'require'
+	__bobwarfare__/data-updates.lua:2: in main chunk
+   2.226 Script @__boblibrary__/error-functions.lua:19: Prerequisite technology bob-tungsten-processing does not exist.
+   2.226 Script @__boblibrary__/technology-functions.lua:328: stack traceback:
+	__boblibrary__/technology-functions.lua:328: in function 'add_prerequisite'
+	__bobwarfare__/prototypes/recipe/recipe-updates.lua:486: in main chunk
+	[C]: in function 'require'
+	__bobwarfare__/data-updates.lua:2: in main chunk
+   2.226 Script @__boblibrary__/error-functions.lua:19: Prerequisite technology bob-tungsten-processing does not exist.
+   2.226 Script @__boblibrary__/technology-functions.lua:328: stack traceback:
+	__boblibrary__/technology-functions.lua:328: in function 'add_prerequisite'
+	__bobwarfare__/prototypes/recipe/recipe-updates.lua:504: in main chunk
+	[C]: in function 'require'
+	__bobwarfare__/data-updates.lua:2: in main chunk
+   2.226 Script @__boblibrary__/error-functions.lua:19: Prerequisite technology bob-tungsten-processing does not exist.
+   2.258 Loading mod reverse-factory 9.0.47 (data-updates.lua)
+   2.263 Script @__reverse-factory__/func.lua:492: recipe: water
+nil
+   2.263 Script @__reverse-factory__/func.lua:437: item: water
+nil
+   2.263 Script @__reverse-factory__/func.lua:492: recipe: sulfuric-acid
+{
+  allow_productivity = true,
+  category = "chemistry",
+  crafting_machine_tint = {
+    primary = {
+      a = 1,
+      b = 0,
+      g = 0.95800000000000001,
+      r = 1
+    },
+    quaternary = {
+      a = 1,
+      b = 0.019,
+      g = 1,
+      r = 0.96899999999999995
+    },
+    secondary = {
+      a = 1,
+      b = 0.17199999999999998,
+      g = 0.85199999999999996,
+      r = 1
+    },
+    tertiary = {
+      a = 1,
+      b = 0.59699999999999998,
+      g = 0.86899999999999995,
+      r = 0.87599999999999998
+    }
+  },
+  enabled = false,
+  energy_required = 1,
+  ingredients = {
+    {
+      amount = 5,
+      name = "sulfur",
+      type = "item"
+    },
+    {
+      amount = 1,
+      name = "iron-plate",
+      type = "item"
+    },
+    {
+      amount = 100,
+      name = "water",
+      type = "fluid"
+    }
+  },
+  name = "sulfuric-acid",
+  order = "c[oil-products]-b[sulfuric-acid]",
+  results = {
+    {
+      amount = 50,
+      name = "sulfuric-acid",
+      type = "fluid"
+    }
+  },
+  subgroup = "fluid-recipes",
+  type = "recipe"
+}
+   2.263 Script @__reverse-factory__/func.lua:437: item: sulfuric-acid
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: crude-oil
+nil
+   2.264 Script @__reverse-factory__/func.lua:437: item: crude-oil
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: heavy-oil
+nil
+   2.264 Script @__reverse-factory__/func.lua:437: item: heavy-oil
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: light-oil
+nil
+   2.264 Script @__reverse-factory__/func.lua:437: item: light-oil
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: petroleum-gas
+nil
+   2.264 Script @__reverse-factory__/func.lua:437: item: petroleum-gas
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: lubricant
+{
+  allow_productivity = true,
+  category = "chemistry",
+  crafting_machine_tint = {
+    primary = {
+      a = 1,
+      b = 0.223,
+      g = 0.72299999999999995,
+      r = 0.26800000000000002
+    },
+    quaternary = {
+      a = 1,
+      b = 0.127,
+      g = 0.39500000000000002,
+      r = 1
+    },
+    secondary = {
+      a = 1,
+      b = 0.38600000000000003,
+      g = 0.79300000000000006,
+      r = 0.43200000000000003
+    },
+    tertiary = {
+      a = 1,
+      b = 0.396,
+      g = 0.471,
+      r = 0.64700000000000006
+    }
+  },
+  enabled = false,
+  energy_required = 1,
+  ingredients = {
+    {
+      amount = 10,
+      name = "heavy-oil",
+      type = "fluid"
+    }
+  },
+  name = "lubricant",
+  order = "c[oil-products]-a[lubricant]",
+  results = {
+    {
+      amount = 10,
+      name = "lubricant",
+      type = "fluid"
+    }
+  },
+  subgroup = "fluid-recipes",
+  type = "recipe"
+}
+   2.264 Script @__reverse-factory__/func.lua:437: item: lubricant
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: bob-nitroglycerin
+{
+  category = "chemistry",
+  enabled = false,
+  energy_required = 1.5,
+  icon = "__bobwarfare__/graphics/icons/nitroglycerin.png",
+  icon_size = 64,
+  ingredients = {
+    {
+      amount = 10,
+      name = "bob-glycerol",
+      type = "fluid"
+    },
+    {
+      amount = 30,
+      name = "sulfuric-acid",
+      type = "fluid"
+    }
+  },
+  name = "bob-nitroglycerin",
+  order = "b[fluid-chemistry]-b[nitroglycerin]",
+  results = {
+    {
+      amount = 10,
+      name = "bob-nitroglycerin",
+      type = "fluid"
+    }
+  },
+  subgroup = "fluid-recipes",
+  type = "recipe"
+}
+   2.264 Script @__reverse-factory__/func.lua:437: item: bob-nitroglycerin
+nil
+   2.264 Script @__reverse-factory__/func.lua:492: recipe: bob-glycerol
+{
+  category = "chemistry",
+  enabled = false,
+  energy_required = 0.5,
+  icon = "__bobwarfare__/graphics/icons/glycerol.png",
+  icon_size = 64,
+  ingredients = {
+    {
+      amount = 10,
+      name = "light-oil",
+      type = "fluid"
+    }
+  },
+  name = "bob-glycerol",
+  order = "b[fluid-chemistry]-b[glycerol]",
+  results = {
+    {
+      amount = 10,
+      name = "bob-glycerol",
+      type = "fluid"
+    }
+  },
+  subgroup = "fluid-recipes",
+  type = "recipe"
+}
+   2.264 Script @__reverse-factory__/func.lua:437: item: bob-glycerol
+nil
+   2.294 Loading mod sonaxaton-infinite-resources 0.4.9 (data-final-fixes.lua)
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making iron-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making copper-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making coal infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making stone infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making uranium-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making crude-oil infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making vtk-deepcore-mining-crack infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making iron-ore-patch-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making iron-ore-patch-chunk infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making iron-ore-patch infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making copper-ore-patch-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making copper-ore-patch-chunk infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making copper-ore-patch infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making coal-patch-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making coal-patch-chunk infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making coal-patch infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making stone-patch-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making stone-patch-chunk infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making stone-patch infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making uranium-ore-patch-ore infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making uranium-ore-patch-chunk infinite
+   2.294 Script @__sonaxaton-infinite-resources__/data-final-fixes.lua:37: making uranium-ore-patch infinite
+   2.323 Loading mod boblibrary 2.0.3 (data-final-fixes.lua)
+   2.324 Script @__boblibrary__/recipe-functions.lua:305: Running recipe ingredients cleanup...
+   2.358 Loading mod HelicopterRevival 0.5.4 (data-final-fixes.lua)
+   2.388 Loading mod Hovercrafts 2.0.4 (data-final-fixes.lua)
+   2.424 Loading mod jetpack 0.4.15 (data-final-fixes.lua)
+   2.455 Loading mod Power Armor MK3 2.1.7 (data-final-fixes.lua)
+   2.483 Loading mod RampantFixed 2.2.4 (data-final-fixes.lua)
+   2.491 Script @__RampantFixed__/prototypes/utils/UpdateImmunities.lua:215: update immunities to repair
+   2.525 Loading mod bobassembly 2.0.5 (data-final-fixes.lua)
+   2.555 Loading mod boblogistics 2.0.6 (data-final-fixes.lua)
+   2.586 Loading mod bobwarfare 2.0.5 (data-final-fixes.lua)
+   2.614 Loading mod reverse-factory 9.0.47 (data-final-fixes.lua)
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-0
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-0
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-1
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-1
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-2
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-2
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-3
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-3
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-4
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-4
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-5
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-5
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-6
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-6
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-7
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-7
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-8
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-8
+   2.622 Script @__reverse-factory__/func.lua:37: Recipe did not have ingredients: parameter-9
+   2.622 Script @__reverse-factory__/func.lua:44: Recipe did not have results: parameter-9
+   2.624 Script @__reverse-factory__/func.lua:54: Recipe was marked as hidden: loader
+   2.624 Script @__reverse-factory__/func.lua:54: Recipe was marked as hidden: fast-loader
+   2.624 Script @__reverse-factory__/func.lua:54: Recipe was marked as hidden: express-loader
+   2.627 Script @__reverse-factory__/func.lua:54: Recipe was marked as hidden: pamk3-inff
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: water-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: sulfuric-acid-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: crude-oil-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: heavy-oil-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: light-oil-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: petroleum-gas-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: lubricant-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: bob-nitroglycerin-barrel
+   2.640 Script @__reverse-factory__/func.lua:106: fill-barrel subgroup was blacklisted for this recipe: bob-glycerol-barrel
+   2.640 Script @__reverse-factory__/func.lua:54: Recipe was marked as hidden: pistol
+   2.643 Script @__reverse-factory__/data-final-fixes.lua:36: manual recipe added: pistol
+   2.848 Checksum for core: 3316885848
+   2.848 Checksum of base: 1879415942
+   2.848 Checksum of sonaxaton-infinite-resources: 3913342123
+   2.848 Checksum of air-filtering: 1253682983
+   2.848 Checksum of ballistic_missile: 1406997289
+   2.848 Checksum of bigger-artillery: 2263015238
+   2.848 Checksum of boblibrary: 1409583333
+   2.848 Checksum of bullet-trails: 3844283971
+   2.848 Checksum of DiscoScience: 2800209080
+   2.848 Checksum of equipment-gantry: 1577319214
+   2.848 Checksum of even-distribution: 281457414
+   2.848 Checksum of flib: 728527376
+   2.848 Checksum of Gun_Turret_Alerts: 2791151515
+   2.848 Checksum of HelicopterRevival: 30217154
+   2.848 Checksum of helmod: 3397852213
+   2.848 Checksum of Hovercrafts: 721587735
+   2.848 Checksum of jetpack: 3358654601
+   2.848 Checksum of kry_stdlib: 0
+   2.848 Checksum of lex-aircraft: 2645088925
+   2.848 Checksum of OmegaDrill: 145554060
+   2.848 Checksum of Power Armor MK3: 549337896
+   2.848 Checksum of RampantFixed: 1973560132
+   2.848 Checksum of Repair_Turret: 135551035
+   2.848 Checksum of TimeTools: 838672771
+   2.848 Checksum of vtk-deep-core-mining: 2188769219
+   2.848 Checksum of Waterfill_v17: 425935884
+   2.848 Checksum of bobassembly: 2151482268
+   2.848 Checksum of bobenemies: 880408735
+   2.848 Checksum of boblogistics: 2881912379
+   2.848 Checksum of bobmining: 1496573313
+   2.848 Checksum of bobpower: 1025704504
+   2.848 Checksum of RateCalculator: 832009472
+   2.848 Checksum of bobwarfare: 3832301778
+   2.848 Checksum of reverse-factory: 940560057
+   3.669 Prototype list checksum: 1395949108
+   3.824 Loading sounds...
+   3.927 Info PlayerData.cpp:66: Local player-data.json unavailable
+   3.927 Info PlayerData.cpp:69: Cloud player-data.json available, timestamp 1772432299
+   3.929 Post-data load graphics options: [Light occlusion: no]
+   4.222 Crop bitmaps.
+   4.224 Parallel sprite loader initialized (threads: 12, bitmaps: 1425)
+   5.412 Initial atlas bitmap size is 16384
+   5.428 Created an atlas bitmap (size 16384x16384) [none]
+   5.439 Created an atlas bitmap (size 16384x16380) [none]
+   5.439 Created an atlas bitmap (size 4096x3288) [none]
+   5.439 Created an atlas bitmap (size 16384x8704) [low-object]
+   5.439 Created an atlas bitmap (size 16384x12096) [corpse-decay]
+   5.439 Created an atlas bitmap (size 8192x4352) [decal]
+   5.439 Created an atlas bitmap (size 8192x5968) [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   5.439 Created an atlas bitmap (size 320x320) [low-object, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   5.439 Created an atlas bitmap (size 4096x1632) [smoke, mipmap, linear-minification, linear-magnification]
+   5.440 Created an atlas bitmap (size 16384x6288) [terrain, mipmap, linear-minification, linear-mip-level]
+   5.440 Created an atlas bitmap (size 4096x2960) [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   5.440 Created an atlas bitmap (size 4096x3104) [mipmap]
+   5.441 Created an atlas bitmap (size 8192x4528) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   5.442 Created an atlas bitmap (size 8192x5168) [alpha-mask]
+   5.447 Created an atlas bitmap (size 16384x16384) [shadow, linear-magnification, alpha-mask]
+   5.447 Created an atlas bitmap (size 16384x13420) [shadow, linear-magnification, alpha-mask]
+   5.448 Created an atlas bitmap (size 8192x2352) [shadow, mipmap, linear-magnification, alpha-mask]
+   5.448 Created an atlas bitmap (size 4096x272) [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   5.448 Loading 3D bitmaps.
+   5.454 Texture processor created (4096). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   5.558 Parallel sprite loader initialized (threads: 11, bitmaps: 6247)
+  15.853 Sprites loaded
+  15.887 Generated mipmaps (4) for atlas [3] of size 16384x8704   
+  15.890 Generated mipmaps (3) for atlas [6] of size 8192x5968   
+  15.892 Generated mipmaps (4) for atlas [7] of size 320x320   
+  15.897 Generated mipmaps (3) for atlas [8] of size 4096x1632   
+  15.982 Generated mipmaps (3) for atlas [9] of size 16384x6288   
+  15.992 Generated mipmaps (3) for atlas [10] of size 4096x2960   
+  16.067 Generated mipmaps (3) for atlas [11] of size 4096x3104   
+  16.098 Generated mipmaps (5) for atlas [12] of size 8192x4528   
+  16.101 Generated mipmaps (3) for atlas [16] of size 8192x2352   
+  16.108 Custom mipmaps uploaded (3172)
+  16.136 Video memory usage: 2053.27 MB (Atlases: 1924.08 MB, Textures: 129.20 MB)
+  16.171 Custom inputs active: 23
+  16.251 Factorio initialised
+  16.264 Steam Storage Quota: 23841/23841
+  17.287 Game controller disconnected: instance: 0, Xbox One S Controller, Xbox One S Controller
+  17.294 Joystick device disconnected: instance: 0
+  17.597 Game controller connected: instance: 1, Xbox One S Controller, Xbox One S Controller
+  17.597 Joystick device connected: instance: 1, Xbox One S Controller
+  21.522 Game controller disconnected: instance: 1, Xbox One S Controller, Xbox One S Controller
+  21.529 Joystick device disconnected: instance: 1
+  52.073 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+  52.073 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+  52.074 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+  52.766 Loading level.dat: 895706 bytes.
+  52.766 Info Scenario.cpp:154: Map version 2.0.73-1
+  52.777 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+  52.777 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+  52.777 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+  52.780 Checksum for script __level__/control.lua: 3792629764
+  52.780 Checksum for script __sonaxaton-infinite-resources__/control.lua: 3791808300
+  52.781 Checksum for script __ballistic_missile__/control.lua: 4276327265
+  52.782 Checksum for script __bigger-artillery__/control.lua: 4119580143
+  52.783 Checksum for script __DiscoScience__/control.lua: 2090411717
+  52.784 Checksum for script __equipment-gantry__/control.lua: 2557590572
+  52.785 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+  52.785 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+  52.785 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+  52.785 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+  52.785 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+  52.785 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+  52.786 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+  52.786 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+  52.786 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+  52.786 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+  52.786 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+  52.787 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+  52.787 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+  52.788 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+  52.788 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+  52.788 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+  52.788 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+  52.789 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+  52.789 Checksum for script __even-distribution__/control.lua: 140605339
+  52.790 Checksum for script __Gun_Turret_Alerts__/control.lua: 3966393363
+  52.795 Checksum for script __HelicopterRevival__/control.lua: 2252518514
+  52.829 Checksum for script __helmod__/control.lua: 1003675177
+  52.830 Checksum for script __Hovercrafts__/control.lua: 2020537769
+  52.834 Checksum for script __jetpack__/control.lua: 2725444321
+  52.834 Checksum for script __lex-aircraft__/control.lua: 115262840
+  52.835 Checksum for script __OmegaDrill__/control.lua: 2273475390
+  52.849 Checksum for script __RampantFixed__/control.lua: 308398565
+  52.851 Checksum for script __Repair_Turret__/control.lua: 3375371823
+  52.853 Checksum for script __TimeTools__/control.lua: 3578684570
+  52.858 Checksum for script __vtk-deep-core-mining__/control.lua: 4006523936
+  52.859 Checksum for script __bobenemies__/control.lua: 3692214564
+  52.860 Checksum for script __boblogistics__/control.lua: 1122667629
+  52.864 Checksum for script __RateCalculator__/control.lua: 2687378667
+  52.865 Checksum for script __reverse-factory__/control.lua: 2840384186
+  52.867 Script @__bigger-artillery__/control/bertha.lua:71: Recreating power interfaces
+  53.154 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from none to 1.0.0
+  53.154 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from 1.0.0 to 1.0.2
+  53.154 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from 1.0.2 to 1.0.3
+  53.154 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from 1.0.3 to 1.0.8
+ 360.551 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+ 360.698 Info AppManagerStates.cpp:2111: Saving finished
+ 669.279 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+ 669.443 Info AppManagerStates.cpp:2111: Saving finished
+ 988.808 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+ 988.974 Info AppManagerStates.cpp:2111: Saving finished
+1289.470 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+1289.619 Info AppManagerStates.cpp:2111: Saving finished
+1592.367 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+1592.523 Info AppManagerStates.cpp:2111: Saving finished
+1797.349 Info AppManager.cpp:353: Deleting active scenario.
+1858.807 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+1858.807 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+1858.807 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+1859.486 Loading level.dat: 891437 bytes.
+1859.486 Info Scenario.cpp:154: Map version 2.0.73-1
+1859.497 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+1859.497 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+1859.497 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+1859.500 Checksum for script __level__/control.lua: 3792629764
+1859.500 Checksum for script __sonaxaton-infinite-resources__/control.lua: 3791808300
+1859.501 Checksum for script __ballistic_missile__/control.lua: 4276327265
+1859.502 Checksum for script __bigger-artillery__/control.lua: 4119580143
+1859.503 Checksum for script __DiscoScience__/control.lua: 2090411717
+1859.504 Checksum for script __equipment-gantry__/control.lua: 2557590572
+1859.504 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+1859.504 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+1859.504 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+1859.505 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+1859.505 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+1859.505 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+1859.505 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+1859.506 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+1859.506 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+1859.506 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+1859.506 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+1859.507 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+1859.508 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+1859.508 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+1859.508 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+1859.508 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+1859.508 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+1859.508 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+1859.508 Checksum for script __even-distribution__/control.lua: 140605339
+1859.510 Checksum for script __Gun_Turret_Alerts__/control.lua: 3966393363
+1859.514 Checksum for script __HelicopterRevival__/control.lua: 2252518514
+1859.543 Checksum for script __helmod__/control.lua: 1003675177
+1859.544 Checksum for script __Hovercrafts__/control.lua: 2020537769
+1859.547 Checksum for script __jetpack__/control.lua: 2725444321
+1859.548 Checksum for script __lex-aircraft__/control.lua: 115262840
+1859.548 Checksum for script __OmegaDrill__/control.lua: 2273475390
+1859.562 Checksum for script __RampantFixed__/control.lua: 308398565
+1859.564 Checksum for script __Repair_Turret__/control.lua: 3375371823
+1859.565 Checksum for script __TimeTools__/control.lua: 3578684570
+1859.569 Checksum for script __vtk-deep-core-mining__/control.lua: 4006523936
+1859.571 Checksum for script __bobenemies__/control.lua: 3692214564
+1859.571 Checksum for script __boblogistics__/control.lua: 1122667629
+1859.575 Checksum for script __RateCalculator__/control.lua: 2687378667
+1859.575 Checksum for script __reverse-factory__/control.lua: 2840384186
+1859.578 Script @__bigger-artillery__/control/bertha.lua:71: Recreating power interfaces
+1859.837 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from none to 1.0.0
+1859.837 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from 1.0.0 to 1.0.2
+1859.837 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from 1.0.2 to 1.0.3
+1859.837 Script @__even-distribution__/framework.lua:22: 0 [ED] Player (NotAFreak) settings migrated from 1.0.3 to 1.0.8
+2162.222 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+2162.365 Info AppManagerStates.cpp:2111: Saving finished
+2468.398 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+2468.563 Info AppManagerStates.cpp:2111: Saving finished
+2930.488 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+2930.654 Info AppManagerStates.cpp:2111: Saving finished
+3232.434 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+3232.597 Info AppManagerStates.cpp:2111: Saving finished
+3550.201 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+3550.357 Info AppManagerStates.cpp:2111: Saving finished
+3877.514 Info AppManagerStates.cpp:2111: Saving finished
+3878.535 Info AppManager.cpp:353: Deleting active scenario.
+4086.178 Loading map /home/notafreak/.factorio/saves/fuck.zip: 2978482 bytes.
+4086.186 Loading level.dat: 4553788 bytes.
+4086.186 Info Scenario.cpp:154: Map version 2.0.73-1
+4086.233 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+4086.233 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+4086.234 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+4086.234 Loading script.dat: 2855140 bytes.
+4086.236 Checksum for script __level__/control.lua: 3792629764
+4086.236 Checksum for script __sonaxaton-infinite-resources__/control.lua: 3791808300
+4086.237 Checksum for script __ballistic_missile__/control.lua: 4276327265
+4086.238 Checksum for script __bigger-artillery__/control.lua: 4119580143
+4086.239 Checksum for script __DiscoScience__/control.lua: 2090411717
+4086.240 Checksum for script __equipment-gantry__/control.lua: 2557590572
+4086.241 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+4086.241 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+4086.241 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+4086.241 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+4086.241 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+4086.241 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+4086.242 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+4086.242 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+4086.242 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+4086.242 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+4086.242 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+4086.242 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+4086.243 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+4086.243 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+4086.243 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+4086.243 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+4086.243 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+4086.244 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+4086.244 Checksum for script __even-distribution__/control.lua: 140605339
+4086.245 Checksum for script __Gun_Turret_Alerts__/control.lua: 3966393363
+4086.250 Checksum for script __HelicopterRevival__/control.lua: 2252518514
+4086.278 Checksum for script __helmod__/control.lua: 1003675177
+4086.279 Checksum for script __Hovercrafts__/control.lua: 2020537769
+4086.282 Checksum for script __jetpack__/control.lua: 2725444321
+4086.283 Checksum for script __lex-aircraft__/control.lua: 115262840
+4086.283 Checksum for script __OmegaDrill__/control.lua: 2273475390
+4086.295 Checksum for script __RampantFixed__/control.lua: 308398565
+4086.297 Checksum for script __Repair_Turret__/control.lua: 3375371823
+4086.299 Checksum for script __TimeTools__/control.lua: 3578684570
+4086.303 Checksum for script __vtk-deep-core-mining__/control.lua: 4006523936
+4086.304 Checksum for script __bobenemies__/control.lua: 3692214564
+4086.305 Checksum for script __boblogistics__/control.lua: 1122667629
+4086.308 Checksum for script __RateCalculator__/control.lua: 2687378667
+4086.309 Checksum for script __reverse-factory__/control.lua: 2840384186
+4197.618 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+4197.796 Info AppManagerStates.cpp:2111: Saving finished
+4498.934 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+4499.095 Info AppManagerStates.cpp:2111: Saving finished
+4802.820 Info AppManagerStates.cpp:2111: Saving finished
+4847.451 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+4847.613 Info AppManagerStates.cpp:2111: Saving finished
+5151.920 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+5152.088 Info AppManagerStates.cpp:2111: Saving finished
+5463.968 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+5464.110 Info AppManagerStates.cpp:2111: Saving finished
+5764.101 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+5764.243 Info AppManagerStates.cpp:2111: Saving finished
+6064.251 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+6064.409 Info AppManagerStates.cpp:2111: Saving finished
+6364.460 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+6364.642 Info AppManagerStates.cpp:2111: Saving finished
+6665.404 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+6665.569 Info AppManagerStates.cpp:2111: Saving finished
+7212.368 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+7212.522 Info AppManagerStates.cpp:2111: Saving finished
+7579.416 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+7579.583 Info AppManagerStates.cpp:2111: Saving finished
+8042.751 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+8042.931 Info AppManagerStates.cpp:2111: Saving finished
+8344.684 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+8344.824 Info AppManagerStates.cpp:2111: Saving finished
+9221.043 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+9221.193 Info AppManagerStates.cpp:2111: Saving finished
+9516.844 Info AppManagerStates.cpp:2111: Saving finished
+9585.251 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+9585.412 Info AppManagerStates.cpp:2111: Saving finished
+9894.251 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+9894.413 Info AppManagerStates.cpp:2111: Saving finished
+10194.434 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+10194.581 Info AppManagerStates.cpp:2111: Saving finished
+10494.632 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+10494.799 Info AppManagerStates.cpp:2111: Saving finished
+10794.868 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+10795.037 Info AppManagerStates.cpp:2111: Saving finished
+11117.717 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+11117.857 Info AppManagerStates.cpp:2111: Saving finished
+11423.201 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+11423.366 Info AppManagerStates.cpp:2111: Saving finished
+11694.627 Info AppManagerStates.cpp:2111: Saving finished
+11747.012 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+11747.177 Info AppManagerStates.cpp:2111: Saving finished
+12047.241 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+12047.407 Info AppManagerStates.cpp:2111: Saving finished
+12347.488 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+12347.653 Info AppManagerStates.cpp:2111: Saving finished
+12647.652 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+12647.817 Info AppManagerStates.cpp:2111: Saving finished
+12959.035 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+12959.200 Info AppManagerStates.cpp:2111: Saving finished
+13259.234 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+13259.372 Info AppManagerStates.cpp:2111: Saving finished
+13559.435 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+13559.598 Info AppManagerStates.cpp:2111: Saving finished
+13859.601 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+13859.774 Info AppManagerStates.cpp:2111: Saving finished
+13985.308 Info AppManagerStates.cpp:2111: Saving finished
+14162.437 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+14162.601 Info AppManagerStates.cpp:2111: Saving finished
+14409.631 Info AppManagerStates.cpp:2111: Saving finished
+14414.599 Info AppManagerStates.cpp:2111: Saving finished
+14476.318 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+14476.481 Info AppManagerStates.cpp:2111: Saving finished
+14776.461 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+14776.643 Info AppManagerStates.cpp:2111: Saving finished
+15076.624 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+15076.805 Info AppManagerStates.cpp:2111: Saving finished
+15376.786 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+15376.951 Info AppManagerStates.cpp:2111: Saving finished
+15676.951 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+15677.130 Info AppManagerStates.cpp:2111: Saving finished
+15760.408 Info AppManagerStates.cpp:1434: Deleting active scenario.
+15760.462 Loading map /home/notafreak/.factorio/saves/Before Shower.zip: 3838875 bytes.
+15760.471 Loading level.dat: 7051367 bytes.
+15760.471 Info Scenario.cpp:154: Map version 2.0.73-1
+15760.564 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+15760.564 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+15760.564 Loading blueprint storage: Local timestamp -1, Cloud timestamp -1
+15760.564 Loading script.dat: 2923912 bytes.
+15760.567 Checksum for script __level__/control.lua: 3792629764
+15760.567 Checksum for script __sonaxaton-infinite-resources__/control.lua: 3791808300
+15760.569 Checksum for script __ballistic_missile__/control.lua: 4276327265
+15760.570 Checksum for script __bigger-artillery__/control.lua: 4119580143
+15760.571 Checksum for script __DiscoScience__/control.lua: 2090411717
+15760.572 Checksum for script __equipment-gantry__/control.lua: 2557590572
+15760.572 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+15760.572 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+15760.572 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+15760.572 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+15760.573 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+15760.573 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+15760.573 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+15760.574 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+15760.574 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+15760.574 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+15760.574 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+15760.575 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+15760.575 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+15760.575 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+15760.575 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+15760.575 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+15760.575 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+15760.576 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+15760.576 Checksum for script __even-distribution__/control.lua: 140605339
+15760.577 Checksum for script __Gun_Turret_Alerts__/control.lua: 3966393363
+15760.583 Checksum for script __HelicopterRevival__/control.lua: 2252518514
+15760.616 Checksum for script __helmod__/control.lua: 1003675177
+15760.618 Checksum for script __Hovercrafts__/control.lua: 2020537769
+15760.621 Checksum for script __jetpack__/control.lua: 2725444321
+15760.622 Checksum for script __lex-aircraft__/control.lua: 115262840
+15760.623 Checksum for script __OmegaDrill__/control.lua: 2273475390
+15760.637 Checksum for script __RampantFixed__/control.lua: 308398565
+15760.639 Checksum for script __Repair_Turret__/control.lua: 3375371823
+15760.641 Checksum for script __TimeTools__/control.lua: 3578684570
+15760.645 Checksum for script __vtk-deep-core-mining__/control.lua: 4006523936
+15760.647 Checksum for script __bobenemies__/control.lua: 3692214564
+15760.648 Checksum for script __boblogistics__/control.lua: 1122667629
+15760.652 Checksum for script __RateCalculator__/control.lua: 2687378667
+15760.653 Checksum for script __reverse-factory__/control.lua: 2840384186
+16416.137 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+16416.302 Info AppManagerStates.cpp:2111: Saving finished
+16750.701 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+16750.863 Info AppManagerStates.cpp:2111: Saving finished
+17072.151 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+17072.314 Info AppManagerStates.cpp:2111: Saving finished
+17372.400 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+17372.539 Info AppManagerStates.cpp:2111: Saving finished
+17703.618 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+17703.779 Info AppManagerStates.cpp:2111: Saving finished
+18004.285 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+18004.446 Info AppManagerStates.cpp:2111: Saving finished
+18305.651 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+18305.814 Info AppManagerStates.cpp:2111: Saving finished
+18605.830 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+18605.981 Info AppManagerStates.cpp:2111: Saving finished
+19064.535 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+19064.699 Info AppManagerStates.cpp:2111: Saving finished
+19364.707 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+19364.872 Info AppManagerStates.cpp:2111: Saving finished
+19664.900 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+19665.048 Info AppManagerStates.cpp:2111: Saving finished
+19969.345 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+19969.499 Info AppManagerStates.cpp:2111: Saving finished
+20271.141 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+20271.306 Info AppManagerStates.cpp:2111: Saving finished
+20571.405 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+20571.568 Info AppManagerStates.cpp:2111: Saving finished
+20871.568 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+20871.731 Info AppManagerStates.cpp:2111: Saving finished
+21171.754 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+21171.935 Info AppManagerStates.cpp:2111: Saving finished
+21513.034 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+21513.207 Info AppManagerStates.cpp:2111: Saving finished
+21813.219 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+21813.366 Info AppManagerStates.cpp:2111: Saving finished
+22118.602 Info AppManager.cpp:324: Saving to _autosave3 (blocking).
+22118.760 Info AppManagerStates.cpp:2111: Saving finished
+22491.673 Info AppManager.cpp:324: Saving to _autosave1 (blocking).
+22491.853 Info AppManagerStates.cpp:2111: Saving finished
+22838.235 Info AppManager.cpp:324: Saving to _autosave2 (blocking).
+22838.398 Info AppManagerStates.cpp:2111: Saving finished
+23023.258 Info AppManagerStates.cpp:2111: Saving finished
+23024.208 Info AppManager.cpp:353: Deleting active scenario.
+23025.325 Quitting: user-quit.
+23025.618 Steam API shutdown.
+23025.621 Goodbye

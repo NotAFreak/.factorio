@@ -1,0 +1,171 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "air-filtering",
+      "enabled": true
+    },
+    
+    {
+      "name": "ballistic_missile",
+      "enabled": true
+    },
+    
+    {
+      "name": "bigger-artillery",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "equipment-gantry",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Gun_Turret_Alerts",
+      "enabled": true
+    },
+    
+    {
+      "name": "HelicopterRevival",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Hovercrafts",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry_stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "lex-aircraft",
+      "enabled": true
+    },
+    
+    {
+      "name": "OmegaDrill",
+      "enabled": true
+    },
+    
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantFixed",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "Repair_Turret",
+      "enabled": true
+    },
+    
+    {
+      "name": "reverse-factory",
+      "enabled": true
+    },
+    
+    {
+      "name": "sonaxaton-infinite-resources",
+      "enabled": true
+    },
+    
+    {
+      "name": "TimeTools",
+      "enabled": true
+    },
+    
+    {
+      "name": "vtk-deep-core-mining",
+      "enabled": true
+    },
+    
+    {
+      "name": "Waterfill_v17",
+      "enabled": true
+    }
+  ]
+}
